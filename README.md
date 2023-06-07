@@ -1,5 +1,5 @@
 # ml-nonequilibrium
-Code and data related to the article "Machine learning in and out of equilibrium"
+Code and data related to the article ["Machine learning in and out of equilibrium"](http://arxiv.org/abs/2306.03521)
 by Shishir Adhikari, Alkan Kabakçıoğlu, Alexander Strang, Deniz Yuret, and Michael Hinczewski
 
 **6/6/23:** *This repository is a work in progress: additional code and data will be made available in the near future.*
