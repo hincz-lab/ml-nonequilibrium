@@ -14,4 +14,4 @@ Data files associated with the project are stored in an [OSF repository](https:/
 
 ## Data:
 
-[**Gaussian_wr_ss-30000000-1.0e-7.jld2**](https://osf.io/vk7yu): Sample trajectory for the nonlinear regression example ($3 \times 10^7$ time steps, $\eta = 10^{-7}$)
+[**Gaussian_wr_ss-30000000-1.0e-7.jld2**](https://osf.io/vk7yu): Sample stationary state trajectory for the nonlinear regression example ($3 \times 10^7$ time steps, $\eta = 10^{-7}$)
