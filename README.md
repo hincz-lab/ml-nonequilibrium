@@ -11,3 +11,7 @@ Data files associated with the project are stored in an [OSF repository](https:/
 ## Code:
 
 [**Nonlinear regression WR**](https://github.com/hincz-lab/ml-nonequilibrium/tree/main/Nonlinear%20regression%20WR): Nonlinear regression example, with replacement minibatching
+
+## Data:
+
+[**Gaussian_wr_ss-30000000-1.0e-7.jld2**](https://osf.io/vk7yu): Sample trajectory for the nonlinear regression example ($3 \times 10^7$ time steps, $\eta = 10^{-7}$)
