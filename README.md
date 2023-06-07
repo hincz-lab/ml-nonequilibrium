@@ -8,4 +8,4 @@ The implementation and analysis of stochastic gradient descent training for the 
 
 ## Contents:
 
-**Nonlinear regression WR**: Nonlinear regression example, with replacement minibatching
+[**Nonlinear regression WR**](): Nonlinear regression example, with replacement minibatching
