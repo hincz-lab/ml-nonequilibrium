@@ -11,6 +11,7 @@ Data files associated with the project are stored in an [OSF repository](https:/
 ## Code:
 
 [**Nonlinear regression WR**](https://github.com/hincz-lab/ml-nonequilibrium/tree/main/Nonlinear%20regression%20WR): Nonlinear regression example, minibatching with replacement (WR)
+[**Nonlinear regression WOR**](https://github.com/hincz-lab/ml-nonequilibrium/tree/main/Nonlinear%20regression%20WOR): Nonlinear regression example, minibatching without replacement (WOR)
 
 ## Data:
 
