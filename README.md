@@ -18,4 +18,4 @@ Data files associated with the project are stored in an [OSF repository](https:/
 
 [**Gaussian_wr_ss-30000000-1.0e-7.jld2**](https://osf.io/vk7yu): Sample stationary state trajectory for the nonlinear regression WR example ($3 \times 10^7$ time steps, $\eta = 10^{-7}$, Julia data format)
 
-[**Gaussian_wor_ss-15000000-1.0e-7.jld2**]([https://osf.io/vk7yu](https://osf.io/p7zbw)): Sample stationary state trajectory for the nonlinear regression WOR example ($1.5 \times 10^7$ epochs, batch size = 10,  $\eta = 10^{-7}$, Julia data format)
+[**Gaussian_wor_ss-15000000-1.0e-7.jld2**](https://osf.io/p7zbw): Sample stationary state trajectory for the nonlinear regression WOR example ($1.5 \times 10^7$ epochs, batch size = 10,  $\eta = 10^{-7}$, Julia data format)
