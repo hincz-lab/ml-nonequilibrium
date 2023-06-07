@@ -6,6 +6,6 @@ by Shishir Adhikari, Alkan Kabakçıoğlu, Alexander Strang, Deniz Yuret, and Mi
 
 The implementation and analysis of stochastic gradient descent training for the numerical examples is written in Julia, using the [Knet deep learning framework](https://github.com/denizyuret/Knet.jl).
 
-## Contents:
+## Code:
 
 [**Nonlinear regression WR**](https://github.com/hincz-lab/ml-nonequilibrium/tree/main/Nonlinear%20regression%20WR): Nonlinear regression example, with replacement minibatching
