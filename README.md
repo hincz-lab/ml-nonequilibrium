@@ -8,4 +8,4 @@ The implementation and analysis of stochastic gradient descent training for the 
 
 ## Contents:
 
-[**Nonlinear regression WR**](): Nonlinear regression example, with replacement minibatching
+[**Nonlinear regression WR**](https://github.com/hincz-lab/ml-nonequilibrium/tree/main/Nonlinear%20regression%20WR): Nonlinear regression example, with replacement minibatching
